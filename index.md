@@ -12,7 +12,7 @@ A not so wise man creating this page once said
 > Cats are pretty alright
 
 The same not so wise man also once said
-> **bold** and *italic* text looks nice 
+> **bold** and *italic* text looks ~~terrible~~ nice 
 
 Here is a nice [relative link to the same cat photo](./catpic.jpg)
 
