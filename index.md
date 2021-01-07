@@ -1,8 +1,10 @@
 # Daniel's Github Page for Lab 1
 
-You can use the [editor on GitHub](https://github.com/DanielwasTaken/DanielwasTaken.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Random Link + Image
+Here are [104 Cat Facts](https://www.factretriever.com/cat-facts) that I read before working on this lab
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Here is a cat picture to accompany it
+
 
 ### Markdown
 
