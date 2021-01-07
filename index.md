@@ -4,7 +4,8 @@
 Here are [104 Cat Facts](https://www.factretriever.com/cat-facts) that I read before working on this lab
 
 Here is a cat picture to accompany it
-<img src="catpic.jpg">
+
+<img src="catpic.jpg" class="inline"/>
 
 ### Markdown
 
