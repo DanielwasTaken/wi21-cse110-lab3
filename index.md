@@ -16,8 +16,10 @@ The same not so wise man also once said
 ### My coding masterpiece
 
 ```
-public class bigbrainstuff{
-  public static void main(string args[]){
+public class bigbrainstuff
+{
+  public static void main(string args[])
+  {
       system.out.println("Hello world");
   }
 }
