@@ -1,5 +1,6 @@
 # Daniel's Github Page for Lab 1
-
+### Useful link that will bring you to the section immediately below this one in case your scroll wheel is broken
+[Useful Link]()
 ### Random Link + Image
 Here are [104 Cat Facts](https://www.factretriever.com/cat-facts) that I read before working on this lab
 
