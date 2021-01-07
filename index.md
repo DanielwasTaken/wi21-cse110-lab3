@@ -7,6 +7,9 @@ Here is a cat picture to accompany it
 
 <img src="catpic.jpg" class="inline"/>
 
+A not so wise man creating this page once said
+> Cats are pretty alright
+
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
