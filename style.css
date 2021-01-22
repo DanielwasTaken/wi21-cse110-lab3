@@ -1,1 +1,27 @@
 /*This is the external style sheet for lab 3*/
+
+h1{
+  color:rgb(0, 0, 255);
+  background-color:#ADD8E6;
+}
+
+.button{
+  color:#FF0000;
+}
+
+/*maybe change the id if this doesn't work out like I think*/
+#rank{
+  color:bronze;
+}
+
+*{
+  text-align:center;
+}
+
+[class|="best"] {
+  color: hsl(350, 100%, 88%);
+}
+
+a:hover {
+  color: red;
+}
