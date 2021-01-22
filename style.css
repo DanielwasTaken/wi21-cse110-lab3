@@ -19,7 +19,11 @@ h1{
 }
 
 [class|="best"] {
-  color: hsl(350, 100%, 88%);
+  color: hsl(0, 0%, 50%);
+  border-style:dotted;
+  border-color:pink;
+  border-width:medium;
+  border-radius:5px;
 }
 
 a:hover {
