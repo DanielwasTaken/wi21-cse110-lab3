@@ -1,11 +1,11 @@
 /*This is the external style sheet for lab 3*/
 
 h1{
-  color:blue;
+  color:rgb(0, 0, 255);
 }
 
 .button{
-  color:red;
+  color:#FF0000;
 }
 
 /*maybe change the id if this doesn't work out like I think*/
@@ -18,7 +18,7 @@ h1{
 }
 
 [class|="best"] {
-  background: pink;
+  background: hsl(350, 100%, 88%);
 }
 
 a:hover {
