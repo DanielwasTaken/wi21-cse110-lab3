@@ -32,6 +32,15 @@ iframe{
   display:block;
 }
 
+legend ~ label{
+  color:#DB7093;
+}
+
+h2 + input{
+  background-color:#BBF1F1;
+}
+
+
 .button{
   color:#FF0000;
   width:120px;
