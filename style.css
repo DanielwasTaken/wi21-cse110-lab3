@@ -28,6 +28,7 @@ iframe{
 }
 
 .youtube{
+  display:block;
   height=auto;
   width=auto;
   min-width:600px;
