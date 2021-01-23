@@ -16,6 +16,10 @@ h2{
   margin:10px 10px 10px 10px;
 }
 
+iframe{
+  display:block;
+}
+
 .button{
   color:#FF0000;
   width:60px;
@@ -49,6 +53,10 @@ h2{
 
 p{
   font-size:0.2in;
+}
+
+div{
+  display:inline;
 }
 
 a:hover {
