@@ -25,9 +25,12 @@ iframe{
   width:120px;
   height:60px;
   margin:auto;
+  position:relative;
+  left:20px;
 }
 
 .youtube{
+  position:static;
   width:auto;
   min-width:1237px;
   max-width:2000px;
