@@ -98,17 +98,15 @@ a:active{
   height:auto;
   width:auto;
   background-color: light-blue;
-  grid-template-columns: auto auto auto;
+  grid-template-columns: 33% 33% 33%;
+  grid-template-rows: auto auto;
+  justify-items:center;
   column-gap:20px;
   row-gap:30px;
   
   
 }
 
-.agrid > .gridstuff{
-  align-self:center;
-  padding: 10px 10px 10px 10px;
-  background-color:#C0C0C0;
-}
+
 
 
