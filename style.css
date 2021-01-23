@@ -94,8 +94,10 @@ a:active{
 }
 
 .agrid{
-  background-color: blue;
   display:grid;
+  height:1000px;
+  width:1000px;
+  background-color: blue;
   grid-template-columns: 200px 200px 200px;
   
   
