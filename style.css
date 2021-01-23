@@ -28,8 +28,8 @@ iframe{
 }
 
 .youtube{
-  height=auto;
-  width=auto;
+  height:auto;
+  width:auto;
   min-height:600px;
   max-height:700px;
   min-width:600px;
