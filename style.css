@@ -86,7 +86,7 @@ a:active{
   background-color: pink;
   flex-direction:column;
   align-items:center;
-  justify-content:center;
+  justify-content:space-evenly;
 }
 
 .flexiblebox > .boxstuff{
