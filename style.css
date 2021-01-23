@@ -90,10 +90,19 @@ a:active{
 }
 
 .flexiblebox > .boxstuff{
-  margin: 10px;
   padding: 20px 20px 20px 20px;
+}
+
+.agrid{
+  display:grid;
+  grid-template-columns: 200px 200px 200px;
+  grid-template-rows: 200px 200px
   
 }
 
+.agrid .gridstuff{
+  align-self:center;
+  padding: 20px 20px 20px 20px;
+}
 
 
