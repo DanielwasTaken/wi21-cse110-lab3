@@ -4,20 +4,32 @@ h1{
   color:rgb(0, 0, 255);
   background-color:#ADD8E6;
   font-size:6vh;
+  margin-top:10px;
+  margin-bottom:50px;
+  margin-left:20px;
+  margin-right:20px;
 }
 
 h2{
   font-size:0.8cm;
+  margin:10px 10px 10px 10px;
 }
 
 .button{
   color:#FF0000;
+  width:60px;
+  height:30px;
+  margin:auto;
 }
 
 /*maybe change the id if this doesn't work out like I think*/
 #rank{
   color:bronze;
   font-size:2ch;
+  padding-top:5px;
+  padding-bottom:5px;
+  padding-left:2px;
+  padding-right:2px;
 }
 
 *{
@@ -31,6 +43,7 @@ h2{
   border-color:pink;
   border-width:medium;
   border-radius:5px;
+  padding:5px 5px 2px 2px;
 }
 
 p{
