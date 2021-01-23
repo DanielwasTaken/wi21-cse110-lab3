@@ -103,6 +103,9 @@ a:active{
   justify-items:center;
   column-gap:20px;
   row-gap:30px;
+  border-style:solid;
+  border-width:medium;
+  border-color:black;
 }
 
 
