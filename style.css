@@ -97,7 +97,7 @@ a:active{
   display:grid;
   height:auto;
   width:auto;
-  background-color: light-blue;
+  background-color: #ADD8E6;
   grid-template-columns: 20% 20%;
   grid-template-rows: auto auto auto auto auto auto;
   justify-items:center;
