@@ -81,7 +81,7 @@ a:active{
 }
 
 .flexiblebox{
-  height:auto;
+  height:1000px;
   display: flex;
   background-color: pink;
   flex-direction:column;
