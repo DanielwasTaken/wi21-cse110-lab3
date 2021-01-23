@@ -16,6 +16,10 @@ h2{
   margin:10px 10px 10px 10px;
 }
 
+h3, h4, h5{
+ color:hsl(0,0,30%); 
+}
+
 iframe{
   display:block;
 }
@@ -75,4 +79,6 @@ a:hover {
 a:active{
   color:blue;
 }
+
+
 
