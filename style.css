@@ -97,8 +97,8 @@ a:active{
   display:grid;
   height:1000px;
   width:1000px;
-  background-color: blue;
-  grid-template-columns: 300px 300px 300px;
+  background-color: light-blue;
+  grid-template-columns: auto auto auto;
   column-gap:20px;
   row-gap:30px;
   
@@ -107,8 +107,8 @@ a:active{
 
 .agrid > .gridstuff{
   align-self:center;
-  padding: 100px 100px 100px 100px;
-  background-color:cyan;
+  padding: 10px 10px 10px 10px;
+  background-color:#C0C0C0;
 }
 
 
