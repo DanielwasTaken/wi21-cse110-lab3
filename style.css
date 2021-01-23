@@ -27,6 +27,12 @@ iframe{
   margin:auto;
 }
 
+.youtube{
+  width=auto;
+  min-width:600px;
+  max-width:1300px;
+}
+
 /*maybe change the id if this doesn't work out like I think*/
 #rank{
   color:bronze;
