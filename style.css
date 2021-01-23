@@ -101,7 +101,7 @@ a:active{
   
 }
 
-.agrid .gridstuff{
+.agrid > .gridstuff{
   align-self:center;
   padding: 20px 20px 20px 20px;
 }
